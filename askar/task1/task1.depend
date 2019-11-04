@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1572861681 source:d:\askar\task1\izdelia.cpp
+	"Izdelia.h"
+	<stdio.h>
+	<string.h>
+
+1572861156 d:\askar\task1\izdelia.h
+
